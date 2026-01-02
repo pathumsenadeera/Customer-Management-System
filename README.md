@@ -30,13 +30,13 @@ A modern, high-performance Customer Management System built with **Vue 3** and *
 
 ## 📸 Screenshots
 
-|                     Landing Page                     |                   Dashboard                    |
+|                     Login Page                     |                   Dashboard                    |
 | :--------------------------------------------------: | :--------------------------------------------: |
-| ![Landing Page](public/screenshots/home-preview.png) | ![Dashboard](public/screenshots/dashboard.png) |
+|  ![Login](public/screenshots/login.png)              | ![Dashboard](public/screenshots/dashboard.png) |
 
-|               Login Page               |                 Account Setting                 |
+|               Pricing Page               |                 Account Setting                 |
 | :------------------------------------: | :--------------------------------------------: |
-| ![Login](public/screenshots/login.png) | ![Customers](public/screenshots/coustomer.png) |
+| ![Pricing](public/screenshots/pricing.png) | ![Customers](public/screenshots/coustomer.png) |
 
 > _Note: Please add `dashboard.png`, `login.png`, and `customers.png` to the `public/screenshots` folder to update these images._
 
