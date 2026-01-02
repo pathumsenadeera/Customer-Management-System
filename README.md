@@ -1,6 +1,6 @@
 # CMS PRO - Customer Management System
 
-![CMS PRO Home](public/screenshot/home.png)
+![CMS PRO Home](public/screenshots/home.png)
 
 A modern, high-performance Customer Management System built with **Vue 3** and **Quasar Framework**. features a premium **Black & Red** aesthetic ("Cyber Dark" theme), animated interactions, and a fully responsive design.
 
@@ -34,9 +34,9 @@ A modern, high-performance Customer Management System built with **Vue 3** and *
 | :--------------------------------------------------: | :--------------------------------------------: |
 | ![Landing Page](public/screenshots/home-preview.png) | ![Dashboard](public/screenshots/dashboard.png) |
 
-|               Login Page               |                 Customer List                  |
+|               Login Page               |                 Account Setting                 |
 | :------------------------------------: | :--------------------------------------------: |
-| ![Login](public/screenshots/login.png) | ![Customers](public/screenshots/customers.png) |
+| ![Login](public/screenshots/login.png) | ![Customers](public/screenshots/coustomer.png) |
 
 > _Note: Please add `dashboard.png`, `login.png`, and `customers.png` to the `public/screenshots` folder to update these images._
 
