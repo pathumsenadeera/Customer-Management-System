@@ -1,6 +1,6 @@
 # CMS PRO - Customer Management System
 
-![CMS PRO Home](public/screenshots/home-preview.png)
+![CMS PRO Home](C:\Users\pathu\OneDrive\Desktop\WEB APPLICATION\Customer-Management-System\.git\1.png)
 
 A modern, high-performance Customer Management System built with **Vue 3** and **Quasar Framework**. features a premium **Black & Red** aesthetic ("Cyber Dark" theme), animated interactions, and a fully responsive design.
 
