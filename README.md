@@ -38,7 +38,7 @@ A modern, high-performance Customer Management System built with **Vue 3** and *
 | :------------------------------------: | :--------------------------------------------: |
 | ![Pricing](public/screenshots/pricing.png) | ![Customers](public/screenshots/coustomer.png) |
 
-> _Note: Please add `dashboard.png`, `login.png`, and `customers.png` to the `public/screenshots` folder to update these images._
+
 
 ## 🏁 Getting Started
 
